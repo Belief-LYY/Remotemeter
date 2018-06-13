@@ -1,0 +1,732 @@
+.text14 {
+	font-size: 14px;
+}
+.text18 {
+	font-size: 18px;
+}
+.text24 {
+	line-height: 40px; font-size: 24px;
+}
+.text_white {
+	color: rgb(255, 255, 255);
+}
+.text_yellow {
+	color: rgb(255, 255, 0);
+}
+.text_blue {
+	color: rgb(0, 130, 188);
+}
+.text_orange {
+	color: rgb(255, 102, 0);
+}
+.text_hui {
+	color: rgb(102, 102, 102);
+}
+.text_red {
+	color: rgb(255, 0, 0);
+}
+.text_green {
+	color: rgb(89, 170, 46);
+}
+.bold {
+	font-weight: bold;
+}
+body {
+	font-size: 12px;
+}
+img {
+	border: currentColor; border-image: none;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+* {
+	margin: 0px; padding: 0px; font-family: "??????";
+}
+.im {
+	margin: 0px auto; width: 100%; text-align: center;
+}
+.tiao {
+	background: url("images/1_22.png") repeat-x top; margin: 0px auto; width: 1600px; height: 10px;
+}
+#content {
+	margin: 0px auto; width: 1000px;
+}
+#content .box {
+	overflow: hidden; margin-top: 10px;
+}
+#content .box .boxli {
+	width: 235px; margin-left: 12px; float: left;
+}
+#content .gs {
+	background: url("images/1_26.png") no-repeat; width: 235px; height: 31px; text-align: center;
+}
+#content .gs a {
+	color: rgb(255, 255, 255); line-height: 31px; font-size: 16px; font-weight: bold;
+}
+#content .gs1 {
+	background: url("images/3_03.png") no-repeat; width: 235px; height: 226px;
+}
+#content .text {
+	height: 160px; color: rgb(0, 136, 204); line-height: 22px; margin-left: 4px;
+}
+#content .xx {
+	background: rgb(0, 67, 100); width: 50px; height: 20px; text-align: center; color: rgb(255, 255, 255); line-height: 20px; margin-right: 10px; margin-left: 175px; display: block;
+}
+#content .xx a {
+	color: rgb(255, 255, 255);
+}
+#content .tj {
+	background: url("images/4_03.png") no-repeat; width: 235px; height: 31px; text-align: center;
+}
+#content .tj a {
+	color: rgb(255, 255, 255); line-height: 31px; font-size: 16px; font-weight: bold;
+}
+#content .tj1 {
+	background: url("images/4_09.png") no-repeat; width: 235px; height: 226px;
+}
+#content .tj1 img {
+	width: 227px; height: 160px; margin-left: 4px;
+}
+#content .xx1 {
+	background: rgb(0, 92, 138); width: 50px; height: 20px; text-align: center; color: rgb(255, 255, 255); line-height: 20px; margin-right: 10px; margin-left: 175px; display: block;
+}
+#content .xx1 a {
+	color: rgb(255, 255, 255);
+}
+#content .dt {
+	background: url("images/4_05.png") no-repeat; width: 235px; height: 31px; text-align: center;
+}
+#content .dt a {
+	color: rgb(255, 255, 255); line-height: 31px; font-size: 16px; font-weight: bold;
+}
+#content .dt1 {
+	background: url("images/4_10.png") no-repeat; width: 235px; height: 226px;
+}
+#content ul {
+	margin: 0px 10px; height: 160px;
+}
+#content ul li {
+	line-height: 30px; border-bottom-color: rgb(0, 136, 204); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+#content ul li a {
+	color: rgb(0, 136, 204);
+}
+#content ul li a:hover {
+	color: rgb(0, 67, 100);
+}
+#content .xx2 {
+	background: rgb(0, 118, 177); width: 50px; height: 20px; text-align: center; color: rgb(255, 255, 255); line-height: 20px; margin-right: 10px; margin-left: 175px; display: block;
+}
+#content .xx2 a {
+	color: rgb(255, 255, 255);
+}
+#content .lx {
+	background: url("images/4_07.png") no-repeat; width: 235px; height: 31px; text-align: center;
+}
+#content .lx a {
+	color: rgb(255, 255, 255); line-height: 31px; font-size: 16px; font-weight: bold;
+}
+#content .lx1 {
+	background: url("images/4_11.png") no-repeat; width: 235px; height: 226px;
+}
+#content .text1 {
+	height: 160px; color: rgb(0, 136, 204); line-height: 25px; margin-left: 6px;
+}
+#content .xx3 {
+	background: rgb(0, 136, 204); width: 50px; height: 20px; text-align: center; color: rgb(255, 255, 255); line-height: 20px; margin-right: 10px; margin-left: 175px; display: block;
+}
+#content .xx3 a {
+	color: rgb(255, 255, 255);
+}
+#lj {
+	margin: 0px auto; width: 1000px;
+}
+#lj .box {
+	overflow: hidden; margin-left: 12px;
+}
+#lj .yqlj {
+	background: url("images/1_32.png") no-repeat left; width: 99px; height: 20px; text-align: center; float: left;
+}
+#lj .yqlj a {
+	color: rgb(255, 255, 255); line-height: 20px;
+}
+#lj .ljdz {
+	float: left;
+}
+#lj .ljdz a {
+	color: rgb(51, 51, 51); line-height: 20px;
+}
+#bottom {
+	background: url("images/1_36.png") repeat-x; margin: 0px auto; width: 100%; height: 100px; border-top-color: rgb(0, 118, 177); border-top-width: 1px; border-top-style: solid;
+}
+#bottom .box {
+	margin: 0px auto; width: 1000px;
+}
+#bottom .text {
+	text-align: center; margin-top: 20px;
+}
+#bottom .text a {
+	line-height: 30px;
+}
+.l_con {
+	width: 202px; float: left;
+}
+#about {
+	margin: 0px auto 20px; width: 1000px;
+}
+#about .box {
+	margin: 10px 5px; overflow: hidden;
+}
+#about .left {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 200px; margin-bottom: 10px; float: left;
+}
+#about .left .top {
+	background: rgb(0, 118, 177); width: 180px; height: 40px; padding-left: 20px;
+}
+#about .left .top a {
+	color: rgb(255, 255, 255); line-height: 40px; font-size: 16px;
+}
+#about .left ul {
+	margin: 0px 20px 10px;
+}
+#about .left ul li {
+	line-height: 30px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#about .left ul li a {
+	color: rgb(51, 51, 51);
+}
+#about .left ul li a:hover {
+	color: rgb(0, 136, 204);
+}
+#about .right {
+	width: 770px; margin-left: 10px; float: left;
+}
+#about .right .top {
+	background: rgb(0, 136, 204); width: 770px; overflow: hidden;
+}
+#about .right .l {
+	width: 350px; height: 40px; padding-left: 20px; float: left;
+}
+#about .right .l a {
+	color: rgb(255, 255, 255); line-height: 40px; font-size: 16px;
+}
+#about .right .r {
+	width: 390px; line-height: 40px; margin-right: 10px; float: left;
+}
+#about .right .r p {
+	color: rgb(255, 255, 255); float: right;
+}
+#about .right .r a {
+	color: rgb(255, 255, 255);
+}
+#about .right .r a:hover {
+	color: rgb(0, 67, 100);
+}
+#about .right .bottom {
+	margin: 10px;
+}
+#about .right .bottom a {
+	color: rgb(51, 51, 51); line-height: 25px;
+}
+#about .right .bottom img {
+	margin: 0px 10px 0px 0px;
+}
+#sitemap {
+	margin: 0px auto 20px; width: 1000px;
+}
+#sitemap .box {
+	margin: 10px 0px; overflow: hidden;
+}
+#sitemap .right {
+	width: 1000px; float: left;
+}
+#sitemap .right .top {
+	background: rgb(0, 136, 204); width: 1000px; overflow: hidden;
+}
+#sitemap .right .r {
+	width: 390px; line-height: 40px; margin-right: 10px; float: right;
+}
+#sitemap .right .r p {
+	color: rgb(255, 255, 255); float: right;
+}
+#sitemap .right .r a {
+	color: rgb(255, 255, 255);
+}
+#sitemap .right .r a:hover {
+	color: rgb(0, 67, 100);
+}
+.bottom tr td a {
+	padding: 10px; color: rgb(0, 0, 0); display: block;
+}
+#about .left ul.hot_news {
+	margin: 0px 20px 10px;
+}
+#about .left ul.hot_news li {
+	line-height: 30px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#about .left ul.hot_news li a {
+	color: rgb(51, 51, 51);
+}
+#about .left ul.hot_news li a:hover {
+	color: rgb(0, 136, 204);
+}
+#about .left ul.hot_pro {
+	margin: 0px 20px 10px;
+}
+#about .left ul.hot_pro li {
+	line-height: 30px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#about .left ul.hot_pro li a {
+	color: rgb(51, 51, 51);
+}
+#about .left ul.hot_pro li a:hover {
+	color: rgb(0, 136, 204);
+}
+#about .products {
+	
+}
+#about .products .box {
+	margin: 0px; overflow: hidden;
+}
+#about .products .box img {
+	margin: 10px; float: left;
+}
+#about .products .box p {
+	margin: 10px; line-height: 30px; float: left;
+}
+#about .news ul {
+	margin: 5px;
+}
+#about .news ul li {
+	height: 155px; overflow: hidden; padding-top: 10px; border-bottom-color: rgb(0, 67, 100); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.news_img {
+	width: 176px; height: 145px; float: left;
+}
+.news_img img {
+	width: 176px; height: 145px;
+}
+.news_l_txt {
+	width: 575px; float: right;
+}
+.news_l_title {
+	height: 30px; line-height: 30px; overflow: hidden; font-size: 14px; font-weight: bold;
+}
+.news_l_nrjj {
+	line-height: 24px;
+}
+#about .news ul li a {
+	color: rgb(51, 51, 51); float: left;
+}
+#about .news ul li a:hover {
+	color: rgb(0, 118, 177);
+}
+#about .news .ne {
+	color: rgb(51, 51, 51); float: right;
+}
+#about .Technology {
+	margin: 5px;
+}
+#about .Technology a {
+	color: rgb(51, 51, 51); line-height: 30px;
+}
+.main2 {
+	margin: 0px auto; width: 1000px;
+}
+.header2 {
+	background: rgb(234, 234, 234); height: 40px;
+}
+.nav2 {
+	width: 980px; font-family: "??????"; margin-top: 30px;
+}
+.ddsmoothmenu2 ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.ddsmoothmenu2 ul li {
+	width: 108px; height: 40px; text-align: center; line-height: 40px; font-size: 14px; font-weight: bold; float: left; display: inline; position: relative;
+}
+.ddsmoothmenu2 ul li.sel {
+	background: url("images/navigation.jpg") no-repeat 50% 100%;
+}
+.ddsmoothmenu2 ul li.sel > a {
+	color: rgb(255, 102, 0);
+}
+.ddsmoothmenu2 ul li a {
+	height: 40px; color: rgb(85, 85, 85); display: block;
+}
+* html .ddsmoothmenu2 ul li a {
+	font-weight: bold; display: block;
+}
+.ddsmoothmenu2 ul li ul {
+	background: none; left: 0px; display: none; visibility: hidden; position: absolute;
+}
+.ddsmoothmenu2 ul li ul li {
+	background: none; width: 108px; height: 40px; line-height: 40px; margin-left: 0px; float: none; display: list-item;
+}
+.ddsmoothmenu2 ul li ul li ul {
+	top: 0px;
+}
+.ddsmoothmenu2 ul li ul li a {
+	background: url("images/navigationbg.png") 0px 0px; margin: 0px; width: 108px; color: rgb(51, 51, 51); font-size: 12px; font-weight: normal; border-top-width: 0px;
+}
+* html .ddsmoothmenu2 {
+	height: 1%;
+}
+.header {
+	background: url("images/top_bg.jpg") repeat-x; height: 100px;
+}
+.top {
+	margin: 0px auto; width: 1000px; float: right;
+}
+.top_right {
+	width: 150px; padding-top: 15px; float: right;
+}
+.zwb {
+	background: url("images/icon_zw.jpg") no-repeat left; width: 60px; height: 15px; text-indent: 24px; padding-right: 10px; float: left;
+}
+.ywb {
+	background: url("images/icon_yw.jpg") no-repeat left; text-indent: 24px; float: left;
+}
+.logo {
+	top: 19px; width: 153px; height: 76px; right: 1140px; float: right; position: relative;
+}
+.nav {
+	width: 980px; font-family: "??????"; margin-top: 30px; float: right;
+}
+.dh {
+	
+}
+.ddsmoothmenu {
+	
+}
+.ddsmoothmenu ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.ddsmoothmenu ul li {
+	width: 120px; height: 33px; text-align: center; font-size: 14px; font-weight: bold; float: left; display: inline; position: relative;
+}
+.ddsmoothmenu ul li.sel {
+	background: url("images/navigation.jpg") no-repeat 50% 100%;
+}
+.ddsmoothmenu ul li.sel > a {
+	color: rgb(255, 102, 0);
+}
+.ddsmoothmenu ul li a {
+	height: 33px; display: block;
+}
+* html .ddsmoothmenu ul li a {
+	font-weight: bold; display: block;
+}
+.ddsmoothmenu ul li a:link {
+	
+}
+.ddsmoothmenu ul li a:visited {
+	
+}
+.ddsmoothmenu ul li a.selected {
+	background-position: center; color: rgb(255, 255, 255); background-image: url("images/nav_hover.png"); background-repeat: no-repeat;
+}
+.ddsmoothmenu ul li a:hover {
+	background-position: center; color: rgb(255, 255, 255); background-image: url("images/nav_hover.png"); background-repeat: no-repeat;
+}
+.ddsmoothmenu ul li ul {
+	background: none; left: 0px; display: none; visibility: hidden; position: absolute;
+}
+.ddsmoothmenu ul li ul li {
+	background: none; width: 108px; height: 33px; line-height: 33px; margin-left: 0px; float: none; display: list-item;
+}
+.ddsmoothmenu ul li ul li ul {
+	top: 0px;
+}
+.ddsmoothmenu ul li ul li a {
+	background: url("images/navigationbg.png") 0px 0px; margin: 0px; width: 108px; color: rgb(51, 51, 51); font-size: 12px; font-weight: normal; border-top-width: 0px;
+}
+.ddsmoothmenu ul li ul li a.selected {
+	background: url("images/navigationbg_sel.png") 0px 0px;
+}
+.ddsmoothmenu ul li ul li a:hover {
+	background: url("images/navigationbg_sel.png") 0px 0px; color: rgb(51, 51, 51); font-weight: normal;
+}
+* html .ddsmoothmenu {
+	height: 1%;
+}
+.nav_list {
+	width: 980px; font-family: "??????"; margin-top: 30px; float: right;
+}
+.nav {
+	height: 33px; line-height: 33px; position: relative; z-index: 999;
+}
+.nav a {
+	color: rgb(85, 85, 85);
+}
+.nav .nLi {
+	float: left; display: inline; position: relative;
+}
+.nav .nLi h3 {
+	width: 120px; height: 33px;
+}
+.nav .nLi h3 a {
+	text-align: center; color: rgb(85, 85, 85); font-size: 14px; font-weight: bold; display: block;
+}
+.nav .sub {
+	background: rgb(63, 63, 63); padding: 5px 0px; left: 0px; top: 33px; width: 108px; line-height: 33px; display: none; position: absolute; opacity: 0.5;
+}
+.nav .sub li {
+	-ms-zoom: 1;
+}
+.nav .sub a {
+	padding: 0px 10px; color: rgb(255, 255, 255); display: block;
+}
+.nav .sub a:hover {
+	background: rgb(255, 255, 255); color: rgb(255, 26, 26);
+}
+.nav .on h3 a {
+	background: url("images/nav_hover.png") no-repeat; width: 120px; height: 33px; color: rgb(255, 255, 255); display: block;
+}
+.banner {
+	margin: 0px; width: 100%; height: 492px; overflow: hidden; position: relative;
+}
+.banner .d1 {
+	left: 0px; top: 0px; width: 100%; height: 492px; overflow: hidden; position: absolute;
+}
+.banner .d2 {
+	left: 0px; top: 420px; width: 100%; height: 30px; clear: both; position: absolute; z-index: 99;
+}
+.banner .d2 ul {
+	margin: 0px 0px 0px -96px; left: 55%; float: left; display: inline; position: absolute;
+}
+.banner .d2 li {
+	background: rgb(180, 180, 180); border-radius: 14px; width: 14px; height: 14px; margin-right: 9px; float: left; cursor: pointer;
+}
+.banner .d2 li.nuw {
+	background: rgb(252, 139, 5); cursor: pointer;
+}
+.main {
+	margin: 0px auto; top: -25px; width: 1000px; position: relative; z-index: 9999;
+}
+.in_about {
+	width: 330px; float: left;
+}
+.in_abt_menu {
+	background: url("images/fc8b02.jpg") repeat-x; height: 34px; border-right-color: rgb(212, 212, 212); border-right-width: 1px; border-right-style: solid;
+}
+.in_menu_left {
+	background: url("images/in_menu_01.jpg") no-repeat; width: 84px; height: 34px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; font-size: 15px; float: left;
+}
+.in_menu_more {
+	padding: 10px 10px 0px 0px; float: right;
+}
+.in_abt_txt {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(212, 212, 212) rgb(212, 212, 212); padding: 10px; border-image: none; height: 194px; line-height: 24px; overflow: hidden; background-color: rgb(255, 255, 255);
+}
+.in_abt_txt img {
+	padding: 1px; border: 1px solid rgb(212, 212, 212); border-image: none; width: 125px; height: 88px; margin-right: 8px; float: left;
+}
+.in_news {
+	width: 330px; padding-left: 10px; float: left;
+}
+.in_news_nr {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(212, 212, 212) rgb(212, 212, 212); padding: 0px 10px; border-image: none; height: 214px; overflow: hidden; background-color: rgb(255, 255, 255);
+}
+.in_news_top {
+	height: 88px; overflow: hidden; padding-top: 10px;
+}
+.in_news_img {
+	padding: 1px; border: 1px solid rgb(212, 212, 212); border-image: none; width: 125px; height: 88px; float: left;
+}
+.in_news_img img {
+	width: 125px; height: 88px;
+}
+.in_news_txt {
+	width: 170px; float: right;
+}
+.in_news_txt h3 {
+	height: 24px; line-height: 24px; overflow: hidden; font-size: 12px; font-weight: bold;
+}
+.in_news_txt p {
+	height: 64px; color: rgb(119, 119, 119); line-height: 22px; overflow: hidden;
+}
+.in_news_list {
+	padding-top: 5px;
+}
+.in_news_list ul li {
+	background: url("../images/list_dot001.gif") no-repeat left; height: 24px; line-height: 24px; text-indent: 10px; overflow: hidden; border-bottom-color: rgb(212, 212, 212); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.in_news_list a {
+	color: rgb(51, 51, 51);
+}
+.in_news_list span {
+	color: rgb(153, 153, 153); float: right;
+}
+.in_contact {
+	width: 320px; float: right;
+}
+.in_con_txt {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(212, 212, 212) rgb(212, 212, 212); padding: 10px 10px 0px; border-image: none; height: 204px; color: rgb(85, 85, 85); line-height: 26px; overflow: hidden; background-color: rgb(255, 255, 255);
+}
+.in_products {
+	height: 249px; margin-top: 10px; position: relative;
+}
+.in_pro_list {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(212, 212, 212) rgb(212, 212, 212); border-image: none; height: 194px; overflow: hidden; padding-top: 20px; background-color: rgb(255, 255, 255);
+}
+.scrolllist {
+	margin: 0px auto; width: 1000px; height: 204px;
+}
+.scrolllist a.abtn {
+	background: url("images/arrow3.png") no-repeat 0px 50%; width: 17px; height: 130px; overflow: hidden; display: block;
+}
+.scrolllist a.aleft {
+	float: left;
+}
+.scrolllist a.agrayleft {
+	background-position: -34px 50%; cursor: default;
+}
+.scrolllist a.aright {
+	background-position: -17px 50%; float: right;
+}
+.scrolllist a.agrayright {
+	background-position: -51px 50%; cursor: default;
+}
+.imglist_w {
+	width: 958px; height: 204px; overflow: hidden; float: left; position: relative;
+}
+.imglist_w ul {
+	left: 0px; top: 0px; width: 20000px; position: absolute;
+}
+.imglist_w li {
+	padding: 0px 0px 0px 10px; width: 182px; text-align: center; float: left;
+}
+.in_pro_img {
+	padding: 1px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 176px; height: 145px;
+}
+.in_pro_img img {
+	width: 176px; height: 145px; opacity: 0.86; -moz-opacity: 0.86;
+}
+.in_pro_txt {
+	height: 30px; text-align: center; line-height: 30px; overflow: hidden;
+}
+.in_pro_txt a {
+	color: rgb(51, 51, 51);
+}
+.link {
+	border: 1px solid rgb(212, 212, 212); border-image: none; height: 34px; line-height: 34px; overflow: hidden; margin-top: 10px; background-color: rgb(255, 255, 255);
+}
+.link_menu {
+	padding: 0px 0px 0px 10px; width: 85px; height: 28px; color: rgb(123, 123, 123); font-size: 16px; float: left;
+}
+.link_list {
+	color: rgb(51, 51, 51);
+}
+.link_list a {
+	padding: 0px 6px; color: rgb(51, 51, 51);
+}
+.about_banner {
+	background: url("images/news_banner.jpg") no-repeat center; height: 247px;
+}
+.news_banner {
+	background: url("images/about_banner.jpg") no-repeat center; height: 247px;
+}
+.products_banner {
+	background: url("images/pro_banner.jpg") no-repeat center; height: 247px;
+}
+.pro_xq {
+	margin: 15px auto; width: 720px;
+}
+#preview {
+	width: 300px; text-align: center; float: none;
+}
+.jqzoom {
+	width: 350px; height: 350px; position: relative;
+}
+.zoomdiv {
+	left: 859px; width: 400px; height: 400px;
+}
+.list-h li {
+	float: left;
+}
+#spec-n5 {
+	width: 350px; height: 56px; overflow: hidden; padding-top: 6px;
+}
+#spec-left {
+	background: url("images/left.png") no-repeat; width: 10px; height: 30px; margin-top: 10px; float: left; cursor: pointer;
+}
+#spec-right {
+	background: url("images/right.png") no-repeat; width: 10px; height: 30px; margin-top: 10px; float: left; cursor: pointer;
+}
+#spec-list {
+	width: 325px; overflow: hidden; margin-left: 2px; float: left; display: inline;
+}
+#spec-list ul li {
+	width: 62px; margin-right: 0px; float: left; display: inline;
+}
+#spec-list ul li img {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 50px; height: 50px;
+}
+.jqzoom {
+	padding: 0px; position: relative;
+}
+.zoomdiv {
+	background: url("images/loading.gif") no-repeat center rgb(255, 255, 255); border: 1px solid rgb(228, 228, 228); border-image: none; left: 0px; top: 1px; width: 400px; height: 400px; text-align: center; overflow: hidden; display: none; position: absolute; z-index: 100;
+}
+.bigimg {
+	width: 800px; height: 800px;
+}
+.jqZoomPup {
+	background: no-repeat 50% top rgb(254, 222, 79); border: 1px solid rgb(170, 170, 170); border-image: none; left: 0px; top: 0px; width: 50px; height: 50px; visibility: hidden; position: absolute; z-index: 10; cursor: move; opacity: 0.5; -moz-opacity: 0.5; -khtml-opacity: 0.5;
+}
+#spec-list {
+	width: 322px; margin-right: 2px; position: relative;
+}
+#spec-list div {
+	margin-top: 0px; margin-left: -30px;
+}
+.tabqh {
+	margin-top: 15px; position: relative;
+}
+.tabqh .menu {
+	height: 42px; line-height: 40px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.tabqh .menu ul {
+	list-style: none; margin: 0px; padding: 0px; height: 42px;
+}
+.tabqh .menu li {
+	width: 108px; text-align: center; color: rgb(0, 0, 0); font-size: 16px; float: left; display: block;
+}
+.tabqh .menu li a {
+	width: 108px; height: 42px; text-align: center; color: rgb(0, 0, 0); font-size: 16px; display: block;
+}
+.tabqh .menu li a.tabactive {
+	width: 108px; height: 42px; color: rgb(0, 0, 0); border-bottom-color: rgb(0, 112, 192); border-bottom-width: 2px; border-bottom-style: solid; display: block;
+}
+.tabqh .tabdiv {
+	padding: 15px; line-height: 24px;
+}
+.footer {
+	background: url("images/footer_bg.jpg") repeat-x; height: 66px; line-height: 30px;
+}
+.foot {
+	margin: 0px auto; width: 1000px; text-align: left; color: rgb(120, 153, 219);
+}
+div.digg {
+	margin: 3px; padding: 3px; text-align: center; line-height: 40px;
+}
+div.digg a {
+	margin: 2px; padding: 5px; border: 1px solid rgb(170, 170, 221); border-image: none; color: rgb(0, 0, 153); text-decoration: none;
+}
+div.digg a:hover {
+	border: 1px solid rgb(0, 0, 153); border-image: none; color: rgb(0, 0, 0);
+}
+div.digg a:active {
+	border: 1px solid rgb(0, 0, 153); border-image: none; color: rgb(0, 0, 0);
+}
+div.digg span.current {
+	margin: 2px; padding: 5px; border: 1px solid rgb(0, 0, 153); border-image: none; color: rgb(255, 255, 255); font-weight: bold; background-color: rgb(0, 0, 153);
+}
+div.digg span.disabled {
+	margin: 2px; padding: 5px; border: 1px solid rgb(238, 238, 238); border-image: none; color: rgb(102, 102, 102);
+}
